@@ -83,7 +83,7 @@ bool volwrite(const cv::String& filename, const cv::Mat& volume, const std::vect
 
 	path files_path = vol_path / path("files.txt");
 
-	std::ofstream os(files_path.string(), ios::binary);
+	std::ofstream os(files_path.string(), std::ios::binary);
 	if (!os)
 		return false;
 
