@@ -1,4 +1,4 @@
-// Copyright(c) 2017 Federico Bolelli
+// Copyright(c) 2019 Stefano Allegretti
 // All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
